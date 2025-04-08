@@ -1,8 +1,8 @@
 <!--
 ---
 page_type: sample
-name: "Quickstart: Azure Cosmos DB for MongoDB and Azure SDK for Python"
-description: This is a simple Express  web application to illustrate common basic usage of Azure Cosmos DB for MongoDB and the Azure SDK for Python.
+name: "Quickstart: Azure Cosmos DB for MongoDB and Python"
+description: This is a simple Express  web application to illustrate common basic usage of Azure Cosmos DB for MongoDB and Python.
 urlFragment: template
 languages:
 - typescript
@@ -13,9 +13,9 @@ products:
 ---
 -->
 
-# Quickstart: Azure Cosmos DB for MongoDB - Azure SDK for Python
+# Quickstart: Azure Cosmos DB for MongoDB - Python
 
-This is a simple Express web application to illustrate common basic usage of Azure Cosmos DB for MongoDB with the Azure SDK for Python
+This is a simple Express web application to illustrate common basic usage of Azure Cosmos DB for MongoDB with Python.
 
 ## Prerequisites
 
